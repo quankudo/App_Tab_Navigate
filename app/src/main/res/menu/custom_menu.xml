@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/infor" android:title="Thông tin" android:icon="@drawable/home"/>
+    <item android:id="@+id/score" android:title="Điểm số" android:icon="@drawable/credit_score"/>
+    <item android:id="@+id/calendar" android:title="Lịch học" android:icon="@drawable/calendar"/>
+</menu>
